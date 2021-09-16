@@ -8,3 +8,4 @@ Mi principal pasión es mi familia y quiero dedicar todos los logros que coseche
 También tengo pasión por la computación y por las aplicaciones a las que se puede dar salida, es un mundo grandísimo.
 ### En fin
 Quiero aportar todo mi conocimiento y lo que es más quiero aprender todo lo que entre en mi mente para hacer que esto sea realmente grande.
+### Libros favoritos
