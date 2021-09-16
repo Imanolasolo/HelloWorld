@@ -1,4 +1,4 @@
-![headshot](sarah_pic.jpeg)
+![headshot](https://github.com/Imanolasolo/HelloWorld/blob/main/imanol%20presentando%201.jpg?raw=true)
 # HelloWorld
 First repository
 # Un pequeño vistazo a Imanol Asolo
