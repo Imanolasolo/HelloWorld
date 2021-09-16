@@ -1,3 +1,4 @@
+![headshot](sarah_pic.jpeg)
 # HelloWorld
 First repository
 # Un pequeño vistazo a Imanol Asolo
